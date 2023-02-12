@@ -1,0 +1,83 @@
+body{
+background-image: url("../IMG/Koala.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+
+
+form{
+padding-top: -10px;
+}
+
+.center{
+    text-align: center;
+    }
+
+.middle{
+background: rgba(7, 136, 136, 0.5);
+padding:20px ;
+width: 280px;
+margin-top: 500px;
+margin-left: 180px;
+margin: 0 auto;
+}
+
+input{
+width: 270px;
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+background: transparent;
+border: none;
+border-bottom: solid 2px white;
+padding: 10px 0;
+transition: border 0.5s;
+outline: none;
+height: 25px;
+}
+
+h3{
+color: gold;
+}
+
+p{
+color: rgb(255, 255, 255);
+font-size: 14px;
+}
+
+p a{
+text-decoration: none;
+color: gold;
+}
+
+p a:hover{
+color: cyan;
+}
+
+button{
+width: 120px;
+padding: 7px;
+font-family:'Arial';
+font-size: 18px;
+font-weight: 400;
+color: black;
+background: white;
+border: none;
+border-radius: 40px;
+}
+
+button:hover{
+    color: white;
+    background: black;
+}
+
+  ::placeholder {
+    color: white;
+}
+
+
+
+
+
